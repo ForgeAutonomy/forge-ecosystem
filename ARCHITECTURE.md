@@ -21,6 +21,8 @@ The runtime worker remains in this repository because it shares the database sch
 
 ### forge-ide
 
+**Dropped by the owner, 2026-10-27.** This plan is not pursued. The text below is kept as the record.
+
 Owns user-facing development clients:
 
 - VS Code extension

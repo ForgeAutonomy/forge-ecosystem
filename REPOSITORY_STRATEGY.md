@@ -21,7 +21,7 @@ Create a dedicated GitHub organization owned by your personal GitHub account:
 |---|---|---|
 | `forge-runtime` | Private | Current `~/Developer/forge` code, v0.1.0 source of truth, remote backup |
 | `forge-ecosystem` | Public | Portfolio overview, architecture, roadmap, release matrix, demos |
-| `forge-ide` | Private | Independent VS Code/Code-OSS client; actual development begins after v0.2 |
+| `forge-ide` | Private | Independent VS Code/Code-OSS client; actual development begins after v0.2 (dropped by the owner, 2026-10-27) |
 
 ## Keep together inside forge-runtime
 
